@@ -1,0 +1,30 @@
+<style>
+p.onlytext {
+    background: rgba(255, 254, 176, 0.94);
+    color: #05247a
+}
+
+p.text {
+    background: #bdc7f1
+}
+
+a:hover {
+    color: green
+}
+.eee {text-align: center
+}
+.eee { background-color: #e5f6ee
+}
+.eee {color: gold}
+h2 { background: #d6c1e0
+}
+h3 { background: #d6c1e0
+}
+h4 { background: #d6c1e0
+}
+.fff {  background: bisque}
+
+.sofi { background: gold}
+
+
+</style>
